@@ -11,7 +11,7 @@ LIC_FILES_CHKSUM = " \
 inherit local-git
 
 SRCREV = "b29e4b798d28a5d0709bff87479d17f247645bc8"
-SRC_URI = "git://github.com/JeffyCN/mirrors.git;protocol=https;nobranch=1;branch=mpp-dev-2024_06_27;"
+SRC_URI = "git://github.com/JeffyCN/mirrors.git;protocol=https;nobranch=1;branch=mpp-dev-2024_06_27"
 
 S = "${WORKDIR}/git"
 
